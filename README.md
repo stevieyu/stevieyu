@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![StevieYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevieyu)](https://github.com/stevieyu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevieyu&layout=compact)](https://github.com/stevieyu)
 
 <!--
 **stevieyu/stevieyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
