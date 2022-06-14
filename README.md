@@ -22,8 +22,8 @@
 | -------------- | --------------------------- | ---------- |
 | Full-stack     | JavaScript                  | 6+ years   |
 | Full-stack     | TypeScript                  | 4+ years   |
-| Frontend       | HTML / CSS / Flexbox        | 5+ years   |
-| Frontend       | SVG / SVG Animation         | 3+ years   |
+| Frontend       | HTML / CSS / Flexbox        | 6+ years   |
+| Frontend       | SVG / SVG Animation         | 1+ years   |
 | Frontend       | Vue (+ Router & Vuex)       | 4+ years   |
 | Frontend       | jQuery                      | 2+ years   |
 | Frontend       | React / Svelte              | ~3 month   |
