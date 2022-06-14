@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stevie</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h3 align="center">Senior Web Develop Engineer</h3>
 
 ## Top stacks
 
