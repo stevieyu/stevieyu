@@ -20,8 +20,8 @@ work:
   - name: Company
     position: President
     url: https://company.com
-    startDate: '2013-01-01'
-    endDate: '2014-01-01'
+    startDate: 2013-01
+    endDate: 2014-01
     summary: Description…
     highlights:
       - Started the company
@@ -32,8 +32,8 @@ projects:
       - Won award at AIHacks 2016
     keywords:
       - HTML
-    startDate: '2019-01-01'
-    endDate: '2021-01-01'
+    startDate: 2019-01
+    endDate: 2021-01
     url: https://project.com/
     roles:
       - Team Lead
@@ -53,8 +53,8 @@ education:
 #    url: https://institution.com/
     area: 计算机科学与技术
     studyType: 本科
-    startDate: '2021-03'
-    endDate: '2023-07'
+    startDate: 2021-03
+    endDate: 2023-07
 #    score: '4.0'
 #    courses:
 #      - DB1101 - Basic SQL
