@@ -22,13 +22,15 @@
 <b>Vue - PHP - Mysql - Docker</b>
 </p>
 
-<details>
-  <summary>Statistics</summary>
+
+## Statistics
+
+<div align='center'>
   
 [![StevieYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevieyu)](https://github.com/stevieyu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevieyu&layout=compact)](https://github.com/stevieyu)
-  
-</details>
+
+</div>
 
 <details>
 <summary>All stacks</summary>
