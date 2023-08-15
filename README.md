@@ -32,37 +32,7 @@
 
 </div>
 
-<details>
-<summary>All stacks</summary>
 
-| Stack          | Name                        | Experience |
-| -------------- | --------------------------- | ---------- |
-| Full-stack     | JavaScript                  | 6+ years   |
-| Full-stack     | TypeScript                  | 4+ years   |
-| Frontend       | HTML / CSS / Flexbox        | 6+ years   |
-| Frontend       | SVG / SVG Animation         | 1+ years   |
-| Frontend       | Vue (+ Router & Vuex)       | 4+ years   |
-| Frontend       | jQuery                      | 2+ years   |
-| Frontend       | React / Svelte              | ~3 month   |
-| Backend        | PHP                         | 6+ years   |
-| Backend        | Laravel                     | 4+ years   |
-| Backend        | Node.js                     | 1+ years   |
-| Backend        | REST/CRUD API               | 4+ years   |
-| Backend        | Serverless API              | 1+ years   |
-| Backend        | GraphQL / OpenAPI (Swagger) | 1+ years   |
-| Bundler        | Rollup / Webpack            | 4+ years   |
-| Testing        | Jest, Cypress               | 1+ years   |
-| Database       | MySQL (via ORM)             | 3+ years   |
-| Database       | Redis                       | 1+ years   |
-| Database       | MongoDB                     | ~2 month   |
-| DevOps         | Linux / SSH / Bash          | 4+ years   |
-| DevOps         | Travis CI                   | 1+ years   |
-| DevOps         | Circle CI                   | 1+ years   |
-| DevOps         | Docker                      | 4+ years   |
-| DevOps         | Ansible                     | 1+ year    |
-| AI             | Tensorflow / Keras          | ~6 month   |
-
-</details>
 
 
 
