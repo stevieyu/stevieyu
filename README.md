@@ -64,13 +64,7 @@
 
 </details>
 
-## More
 
-<p align="center">
-          <a href="https://github.com/stevieyu" target="_blank" alt="GitHub">
-            <img width="48" height="48" src="https://github.com/dalisoft/config/raw/master/signature/github.png" />
-          </a>
-</p>
 
 
 <!--
