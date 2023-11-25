@@ -1,6 +1,6 @@
 basics:
   name: Stevie Yu
-  label: Web 前端工程师
+  label: Web 全栈工程师
 #  image: ''
   email: john@gmail.com
 #  phone: (912) 555-4321
@@ -74,13 +74,16 @@ education:
 #    releaseDate: '2014-10-01'
 #    url: https://publication.com
 #    summary: Description…
-#skills:
-#  - name: Web 前端
-#    level: Master
-#    keywords:
-#      - HTML
-#      - CSS
-#      - JavaScript
+skills:
+  - name: Web 全栈开发
+    level: 熟练
+    keywords: ["Vue", "AdonisJs", "NestJs", "Webpack", "Rollup", "Jquery"]
+  - name: PHP 开发
+    level: 熟练
+    keywords: ["Laravel", "Hyperf"]
+  - name: DevOps
+    level: 熟练
+    keywords: ["ubuntu", "git", "docker", "serverless"]
 #languages:
 #  - language: English
 #    fluency: Native speaker
