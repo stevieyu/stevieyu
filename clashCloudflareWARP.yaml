@@ -7,11 +7,10 @@ dns:
   ipv6: true
   enabled: true
   nameserver:
-    - 94.140.14.14
+    - tls://dot-62b2fc51-xm14.dot.pub
     # - 119.29.29.29
     # - 223.5.5.5
-  fallback:
-    - 94.140.15.15
+  # fallback:
     # - 8.8.8.8
 # http://ip.flares.cloud/
 proxies:
