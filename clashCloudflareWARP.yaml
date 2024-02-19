@@ -7,7 +7,7 @@ dns:
   ipv6: true
   enabled: true
   nameserver:
-    - tls://dot-62b2fc51-warp.dot.pub
+    - tls://dot-62b2fc51-warp.dot.pub:853
     # - 119.29.29.29
     # - 223.5.5.5
   # fallback:
