@@ -17,16 +17,17 @@ proxies:
   - name: warp1
     type: vless
     server: 172.67.0.0
-    port: 2052
+    # 80,8080,8880,2052,2082,2086,2095 ; tls: 443,8443,2053,2083,2087,2096
+    port: 2053
     uuid: 5d9febe8-fd6d-45bf-a2a0-688ad03ac8d2
     network: ws
-    tls: false
-    sni: edgetunnel.dgjx.workers.dev
+    tls: true
+    sni: et.dgcf.link
     client-fingerprint: chrome
     ws-opts:
       path: "/?ed=2048"
       headers:
-        host: edgetunnel.dgjx.workers.dev
+        host: et.dgcf.link
   - name: warp2
     type: vless
     server: 141.101.120.0
