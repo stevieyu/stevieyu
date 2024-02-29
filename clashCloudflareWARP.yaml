@@ -13,6 +13,7 @@ dns:
   # fallback:
     # - 8.8.8.8
 # http://ip.flares.cloud/
+# https://github.com/yonggekkk/Cloudflare-workers-pages-vless
 proxies:
   - name: warp1
     type: vless
