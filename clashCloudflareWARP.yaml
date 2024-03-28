@@ -13,6 +13,7 @@ dns:
   # fallback:
     # - 8.8.8.8
 # https://github.com/TulvL/cloudflare-ip-tester
+# http://104.16.64.0/cdn-cgi/trace
 # https://github.com/yonggekkk/Cloudflare-workers-pages-vless
 proxies:
   - name: warp1
