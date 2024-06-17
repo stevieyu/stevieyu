@@ -1,5 +1,6 @@
 #!/bin/bash
-#dotfiles
+#https://devpod.sh/docs/developing-in-workspaces/dotfiles-in-a-workspace
+#https://github.com/89luca89/dotfiles/blob/master/install.sh
 
 # "$(dirname "$0")/setup-idea-plugins"
 goland_path="$HOME/.cache/JetBrains/RemoteDev/dist/goland/bin"
