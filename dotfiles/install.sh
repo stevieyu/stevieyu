@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # "$(dirname "$0")/setup-idea-plugins"
 goland_path="$HOME/.cache/JetBrains/RemoteDev/dist/goland/bin"
