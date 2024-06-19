@@ -2,6 +2,12 @@
 #https://devpod.sh/docs/developing-in-workspaces/dotfiles-in-a-workspace
 #https://github.com/89luca89/dotfiles/blob/master/install.sh
 
+# install
+apt update
+apt install libfreetype6-dev
+
+
+
 # "$(dirname "$0")/setup-idea-plugins"
 goland_path="$HOME/.cache/JetBrains/RemoteDev/dist/goland/bin"
 if [ -e "$goland_path" ]; then
