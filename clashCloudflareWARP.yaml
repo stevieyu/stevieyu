@@ -15,24 +15,26 @@ dns:
 # https://github.com/TulvL/cloudflare-ip-tester
 # http://104.16.64.0/cdn-cgi/trace
 # https://github.com/yonggekkk/Cloudflare-workers-pages-vless
+# https://www.baota.me/post-411.html
+# http://ip.flares.cloud/
 proxies:
   - name: warp1
     type: vless
-    server: 172.67.0.0
+    server: cf-cname.xingpingcn.top
     # 80,8080,8880,2052,2082,2086,2095 ; tls: 443,8443,2053,2083,2087,2096
     port: 2053
     uuid: 5d9febe8-fd6d-45bf-a2a0-688ad03ac8d2
     network: ws
     tls: true
-    sni: et.dgcf.link
+    sni: edgetunnel.dgjx.workers.dev
     client-fingerprint: chrome
     ws-opts:
       path: "/?ed=2048"
       headers:
-        host: et.dgcf.link
+        host: edgetunnel.dgjx.workers.dev
   - name: warp2
     type: vless
-    server: 141.101.120.0
+    server: cloudflare.182682.xyz
     port: 2052
     uuid: 5d9febe8-fd6d-45bf-a2a0-688ad03ac8d2
     network: ws
@@ -45,7 +47,7 @@ proxies:
         host: edgetunnel.dgjx.workers.dev
   - name: warp3
     type: vless
-    server: cf-cname.xingpingcn.top
+    server: 115155.xyz
     port: 2052
     uuid: 5d9febe8-fd6d-45bf-a2a0-688ad03ac8d2
     network: ws
