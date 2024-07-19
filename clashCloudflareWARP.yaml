@@ -22,10 +22,10 @@ proxies:
     type: vless
     server: cf-cname.xingpingcn.top
     # 80,8080,8880,2052,2082,2086,2095 ; tls: 443,8443,2053,2083,2087,2096
-    port: 2053
+    port: 2052
     uuid: 5d9febe8-fd6d-45bf-a2a0-688ad03ac8d2
     network: ws
-    tls: true
+    tls: false
     sni: edgetunnel.dgjx.workers.dev
     client-fingerprint: chrome
     ws-opts:
